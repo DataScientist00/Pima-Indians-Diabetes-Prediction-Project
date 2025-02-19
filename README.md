@@ -9,6 +9,8 @@
 ## Overview 📖
 This project predicts **diabetes risk** using the **Pima Indians Diabetes Dataset** with **machine learning**. The goal is to classify individuals as diabetic or non-diabetic based on health parameters like glucose level, BMI, and age. 
 
+https://pima-indians-diabetes-prediction-project.streamlit.app/
+
 ## Dataset 📂
 - **Name**: Pima Indians Diabetes Dataset
 - **Source**: [Kaggle](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
